@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<script src="https://claims.manifoldxyz.dev/1.5.1/claimComplete.umd.min.js"></script>
+<link rel="stylesheet" href="https://claims.manifoldxyz.dev/1.5.1/claimComplete.css">
+
 <!--
 **campionfellin/campionfellin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
