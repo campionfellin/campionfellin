@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div
+  id="hi"
   data-widget="m-claim-buy-only"
   data-id="1073408240"
 >hi</div>
