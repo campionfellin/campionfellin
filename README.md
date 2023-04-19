@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <iframe
-      title="Bruce Lee"
-      width="300"
-      height="200"
-      src="https://app.manifold.xyz/c/bruceleeofficial">
-  </iframe>
-</div>
+<div
+  data-widget="m-claim-buy-only"
+  data-id="1073408240"
+></div>
 
 <a href="https://www.buymeacoffee.com/campion" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
