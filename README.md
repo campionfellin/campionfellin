@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://app.manifold.xyz/c/dead-presidents" />
+<iframe src="https://app.manifold.xyz/c/dead-presidents"></iframe>
 
 <div
   id="hi"
