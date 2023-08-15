@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<iframe src="https://app.manifold.xyz/c/dead-presidents"></iframe>
-
 <div
   id="hi"
   data-widget="m-claim-buy-only"
