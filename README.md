@@ -1,4 +1,4 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/campionfellin/readme/assets/11984923/b310fef5-b473-4597-ad17-cec1d6ae7f4b">
-  <img src="https://github.com/campionfellin/readme/assets/11984923/b310fef5-b473-4597-ad17-cec1d6ae7f4b" width="100vw" height="100vh" align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/11984923/287031518-b310fef5-b473-4597-ad17-cec1d6ae7f4b.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231130T182313Z&X-Amz-Expires=300&X-Amz-Signature=a78a110df1b0d1f7f2fd69e7efcca0b5d38177a17862dbde75fde6fe8de3e791&X-Amz-SignedHeaders=host&actor_id=11984923&key_id=0&repo_id=725358901">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/11984923/287031518-b310fef5-b473-4597-ad17-cec1d6ae7f4b.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231130T182313Z&X-Amz-Expires=300&X-Amz-Signature=a78a110df1b0d1f7f2fd69e7efcca0b5d38177a17862dbde75fde6fe8de3e791&X-Amz-SignedHeaders=host&actor_id=11984923&key_id=0&repo_id=725358901" width="100vw" height="100vh" align="left">
 </picture>
